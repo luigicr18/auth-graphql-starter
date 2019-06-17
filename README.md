@@ -1,2 +1,2 @@
 # auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+A project to manage authorization from GraphQL. With a client and a server and a mongo data base.
